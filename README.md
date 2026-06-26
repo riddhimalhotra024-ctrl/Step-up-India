@@ -33,8 +33,7 @@ This project demonstrates both **frontend development** (HTML, CSS, JavaScript) 
 ---
 
 ## 📸 Screenshots
-(Add screenshots here later using Markdown syntax, e.g.:  
-`![Dashboard Screenshot](screenshots/dashboard.png)`)
+![Dashboard Screenshot](screenshots/dashboard.png)
 
 ---
 
