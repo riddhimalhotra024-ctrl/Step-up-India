@@ -33,52 +33,23 @@ This project demonstrates both **frontend development** (HTML, CSS, JavaScript) 
 ---
 
 ## 📸 Screenshots
-## 📸 Screenshots
 
-### Home Page
-![Home](screenshots/home.png)
-
-### Registration Page
-![Registration](screenshots/registration.png)
-
-### Login Page
-![Login](screenshots/login.png)
-
-### Dashboard
-![Dashboard](screenshots/dashboard.png)
-
-### Courses List
-![Courses](screenshots/courses.png)
-
-### About Course Popup
-![About Course](screenshots/about course.png)
-
-### Enroll Form
-![Enroll](screenshots/enroll.png)
-
-### Progress Tracker
-![Progress Tracker](screenshots/progress tracker.png)
-
-### Certificate Page
-![Certificate](screenshots/certificate.png)
-
-### Example Certificate
-![Example Certificate](screenshots/example certificate.png)
-
-### Internships Grid
-![Internships](screenshots/internships.png)
-
-### Internship List
-![Internship List](screenshots/internship list.png)
-
-### Internship Application Form
-![Internship Application](screenshots/internships applying.png)
-
-### Admin Panel
-![Admin Panel](screenshots/admind pannel.png)
-
-### User List
-![User List](screenshots/user list.png)
+![Home](screenshots/home.png)  
+![Registration](screenshots/registration.png)  
+![Login](screenshots/login.png)  
+![Dashboard](screenshots/dashboard.png)  
+![Courses](screenshots/courses.png)  
+![Course List](screenshots/course_list.png)  
+![About Course](screenshots/about_course.png)  
+![Enroll](screenshots/enroll.png)  
+![Progress Tracker](screenshots/progress_tracker.png)  
+![Certificate](screenshots/certificate.png)  
+![Example Certificate](screenshots/example_certificate.png)  
+![Internships](screenshots/internships.png)  
+![Internship List](screenshots/internship_list.png)  
+![Internship Application](screenshots/internships_applying.png)  
+![Admin Panel](screenshots/admin_panel.png)  
+![User List](screenshots/user_list.png)
 
 
 ---
