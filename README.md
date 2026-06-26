@@ -34,22 +34,54 @@ This project demonstrates both **frontend development** (HTML, CSS, JavaScript) 
 
 ## 📸 Screenshots
 
-![Home](screenshots/home.png)  
-![Registration](screenshots/registration.png)  
-![Login](screenshots/login.png)  
-![Dashboard](screenshots/dashboard.png)  
-![Courses](screenshots/courses.png)  
-![Course List](screenshots/course_list.png)  
-![About Course](screenshots/about_course.png)  
-![Enroll](screenshots/enroll.png)  
-![Progress Tracker](screenshots/progress_tracker.png)  
-![Certificate](screenshots/certificate.png)  
-![Example Certificate](screenshots/example_certificate.png)  
-![Internships](screenshots/internships.png)  
-![Internship List](screenshots/internship_list.png)  
-![Internship Application](screenshots/internships_applying.png)  
-![Admin Panel](screenshots/admin_panel.png)  
-![User List](screenshots/user_list.png)
+### Home Page
+![Home](home.png)
+
+### Registration Page
+![Registration](registration.png)
+
+### Login Page
+![Login](login.png)
+
+### Dashboard
+![Dashboard](dashboard.png)
+
+### Courses
+![Courses](courses.png)
+
+### Course List
+![Course List](course_list.png)
+
+### About Course
+![About Course](about_course.png)
+
+### Enroll Form
+![Enroll](enroll.png)
+
+### Progress Tracker
+![Progress Tracker](progress_tracker.png)
+
+### Certificate
+![Certificate](certificate.png)
+
+### Example Certificate
+![Example Certificate](example_certificate.png)
+
+### Internships
+![Internships](internships.png)
+
+### Internship List
+![Internship List](internship_list.png)
+
+### Internship Application
+![Internship Application](internshipsapplying.png)
+
+### Admin Panel
+![Admin Panel](admin_pannel.png)
+
+### User List
+![User List](user_list.png)
+
 
 
 ---
