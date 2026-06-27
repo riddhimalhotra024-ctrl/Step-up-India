@@ -49,14 +49,18 @@ This project demonstrates both **frontend development** (HTML, CSS, JavaScript) 
 ### Courses
 ![Courses](courses.png)
 
-### Course List
-![Course List](course_list.png)
 
 ### About Course
 ![About Course](about_course.png)
 
+
 ### Enroll Form
 ![Enroll](enroll.png)
+
+
+### Course List
+![Course List](course_list.png)
+
 
 ### Progress Tracker
 ![Progress Tracker](progress_tracker.png)
@@ -70,14 +74,18 @@ This project demonstrates both **frontend development** (HTML, CSS, JavaScript) 
 ### Internships
 ![Internships](internships.png)
 
-### Internship List
-![Internship List](internship_list.png)
 
 ### Internship Application
 ![Internship Application](internshipsapplying.png)
 
 ### Admin Panel
 ![Admin Panel](admin_pannel.png)
+
+### Course List
+![Course List](course_list.png)
+
+### Internship List
+![Internship List](internship_list.png)
 
 ### User List
 ![User List](user_list.png)
