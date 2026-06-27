@@ -58,10 +58,6 @@ This project demonstrates both **frontend development** (HTML, CSS, JavaScript) 
 ![Enroll](enroll.png)
 
 
-### Course List
-![Course List](course_list.png)
-
-
 ### Progress Tracker
 ![Progress Tracker](progress_tracker.png)
 
